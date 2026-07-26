@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/BinarySoulX/DSA-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinarySoulX/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinarySoulX/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation

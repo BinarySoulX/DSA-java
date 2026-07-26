@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

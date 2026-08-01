@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/BinarySoulX/DSA-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinarySoulX/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -106,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BinarySoulX/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

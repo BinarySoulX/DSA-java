@@ -85,14 +85,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->

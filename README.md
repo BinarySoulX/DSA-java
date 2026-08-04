@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/BinarySoulX/DSA-java/tree/master/0622-design-circular-queue) |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/BinarySoulX/DSA-java/tree/master/2022-convert-1d-array-into-2d-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

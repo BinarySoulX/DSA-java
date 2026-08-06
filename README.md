@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/BinarySoulX/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -101,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinarySoulX/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

@@ -8,7 +8,7 @@ class Solution {//Pattern: Bit Manipulation
         long dvs = Math.abs((long) divisor);
 
         int quotient = 0;
-        for (int i = 31; i >= 0; i--) {
+        for (int i = 31; i >= 0; i--) { //O(1)
             if ((dvs << i) <= dvd) {
                 dvd -= (dvs << i);
                 quotient += (1 << i);

@@ -1,29 +1,20 @@
-class Solution { //Pattern: PQ
-    class Pair implements Comparable<Pair>{
-        int val;
-        int dist;
-        public Pair(int val,int dist){
-            this.val=val;
-            this.dist=dist;
-        }@Override
-        public int compareTo(Pair other){
-            if(this.dist!=other.dist){return other.dist-this.dist;}
-            return other.val-this.val;//when a & b are =
-        }
-    }
+class Solution { //Pattern: PQ/Sliding window(Pre-Sorted)
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        PriorityQueue<Pair> pq=new PriorityQueue<>();
-        for(int num:arr){
-            int dist=Math.abs(num-x);
-            pq.offer(new Pair(num,dist));
+        int possibleWindow_f=0;
+        int possibleWindow_l=arr.length-k;
 
-            if(pq.size()>k){ pq.poll();}
-        }   
+        while(possibleWindow_f < possibleWindow_l){
+            int mid=possibleWindow_f +(possibleWindow_l-possibleWindow_f)/2;
+
+            if(x - arr[mid] > arr[mid + k] - x){
+                possibleWindow_f=mid+1;
+            }else{
+                possibleWindow_l=mid;
+            }
+        }
         List<Integer> list=new ArrayList<>();
-        while(!pq.isEmpty()){
-            list.add(pq.poll().val);
-        }    
-        Collections.sort(list);
-        return list;
+        for(int i=possibleWindow_f;i<possibleWindow_f+k;++i){
+            list.add(arr[i]);
+        }return list;
     }
 }

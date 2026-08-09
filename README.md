@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/BinarySoulX/DSA-java/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 | [0860-lemonade-change](https://github.com/BinarySoulX/DSA-java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/BinarySoulX/DSA-java/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BinarySoulX/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/BinarySoulX/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

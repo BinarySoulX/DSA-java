@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/BinarySoulX/DSA-java/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/BinarySoulX/DSA-java/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BinarySoulX/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/BinarySoulX/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/BinarySoulX/DSA-java/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinarySoulX/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinarySoulX/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -173,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/BinarySoulX/DSA-java/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

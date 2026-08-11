@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |

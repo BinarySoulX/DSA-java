@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/BinarySoulX/DSA-java/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/BinarySoulX/DSA-java/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinarySoulX/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BinarySoulX/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/BinarySoulX/DSA-java/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Backtracking
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |

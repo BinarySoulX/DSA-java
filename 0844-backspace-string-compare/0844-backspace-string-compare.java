@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //Pattern: 2pointer
     public boolean backspaceCompare(String s, String t) {
         int i = s.length() - 1;
         int j = t.length() - 1;
@@ -41,6 +41,5 @@ class Solution {
             }
             --i;--j;
         }return true;
-        
     }
 }

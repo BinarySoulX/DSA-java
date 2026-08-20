@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mdabdur10/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/BinarySoulX/DSA-java/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BinarySoulX/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/BinarySoulX/DSA-java/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BinarySoulX/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Backtracking
 |  |
 | ------- |

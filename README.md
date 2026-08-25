@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/BinarySoulX/DSA-java/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinarySoulX/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/BinarySoulX/DSA-java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/BinarySoulX/DSA-java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## String
 |  |

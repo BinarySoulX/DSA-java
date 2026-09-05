@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/BinarySoulX/DSA-java/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/BinarySoulX/DSA-java/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BinarySoulX/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0377-combination-sum-iv](https://github.com/BinarySoulX/DSA-java/tree/master/0377-combination-sum-iv) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0377-combination-sum-iv](https://github.com/BinarySoulX/DSA-java/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/BinarySoulX/DSA-java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/BinarySoulX/DSA-java/tree/master/0877-stone-game) |

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BinarySoulX/DSA-java/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/BinarySoulX/DSA-java/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BinarySoulX/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0274-h-index](https://github.com/BinarySoulX/DSA-java/tree/master/0274-h-index) |
 | [0377-combination-sum-iv](https://github.com/BinarySoulX/DSA-java/tree/master/0377-combination-sum-iv) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
+| [0274-h-index](https://github.com/BinarySoulX/DSA-java/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BinarySoulX/DSA-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/BinarySoulX/DSA-java/tree/master/0274-h-index) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BinarySoulX/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming

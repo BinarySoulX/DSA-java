@@ -1,14 +1,9 @@
-class Solution {
+class Solution {//Patter:Greedy
     public int hIndex(int[] citations) {
         Arrays.sort(citations);
         int n=citations.length;
-        for (int i = 0; i < n; i++) {
-            int papersWithAtLeastThisCitations = n - i;
-            if (citations[i] >= papersWithAtLeastThisCitations) {
-                return papersWithAtLeastThisCitations;
-            }
-        }
-        
-        return 0;
+        for(int i=0;i<n;++i){
+            if(citations[i] >= n-i){return n-i;}
+        }return 0;
     }
 }

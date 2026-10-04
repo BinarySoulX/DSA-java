@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BinarySoulX/DSA-java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BinarySoulX/DSA-java/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/BinarySoulX/DSA-java/tree/master/0079-word-search) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/BinarySoulX/DSA-java/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/BinarySoulX/DSA-java/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
@@ -271,12 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |

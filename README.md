@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BinarySoulX/DSA-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/BinarySoulX/DSA-java/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/BinarySoulX/DSA-java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BinarySoulX/DSA-java/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BinarySoulX/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BinarySoulX/DSA-java/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/BinarySoulX/DSA-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
 | [1927-sum-game](https://github.com/BinarySoulX/DSA-java/tree/master/1927-sum-game) |

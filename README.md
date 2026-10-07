@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BinarySoulX/DSA-java/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/BinarySoulX/DSA-java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/BinarySoulX/DSA-java/tree/master/0881-boats-to-save-people) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BinarySoulX/DSA-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/BinarySoulX/DSA-java/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinarySoulX/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BinarySoulX/DSA-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/BinarySoulX/DSA-java/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BinarySoulX/DSA-java/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -278,12 +280,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BinarySoulX/DSA-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BinarySoulX/DSA-java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Prefix Sum
 |  |
 | ------- |

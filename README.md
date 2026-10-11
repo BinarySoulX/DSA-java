@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/BinarySoulX/DSA-java/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BinarySoulX/DSA-java/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BinarySoulX/DSA-java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinarySoulX/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BinarySoulX/DSA-java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/BinarySoulX/DSA-java/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BinarySoulX/DSA-java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |

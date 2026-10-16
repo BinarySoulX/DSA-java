@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -150,12 +151,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BinarySoulX/DSA-java/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinarySoulX/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BinarySoulX/DSA-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

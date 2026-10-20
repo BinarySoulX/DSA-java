@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BinarySoulX/DSA-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BinarySoulX/DSA-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/BinarySoulX/DSA-java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BinarySoulX/DSA-java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BinarySoulX/DSA-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/BinarySoulX/DSA-java/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/BinarySoulX/DSA-java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BinarySoulX/DSA-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BinarySoulX/DSA-java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/BinarySoulX/DSA-java/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BinarySoulX/DSA-java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BinarySoulX/DSA-java/tree/master/3731-find-missing-elements) |
 ## String

@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BinarySoulX/DSA-java/tree/master/0257-binary-tree-paths) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinarySoulX/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BinarySoulX/DSA-java/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinarySoulX/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/BinarySoulX/DSA-java/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/BinarySoulX/DSA-java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BinarySoulX/DSA-java/tree/master/0257-binary-tree-paths) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BinarySoulX/DSA-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/BinarySoulX/DSA-java/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/BinarySoulX/DSA-java/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
+| [0257-binary-tree-paths](https://github.com/BinarySoulX/DSA-java/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/BinarySoulX/DSA-java/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BinarySoulX/DSA-java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/BinarySoulX/DSA-java/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/BinarySoulX/DSA-java/tree/master/0257-binary-tree-paths) |
 ## Algorithm X
 |  |
 | ------- |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/BinarySoulX/DSA-java/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/BinarySoulX/DSA-java/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/BinarySoulX/DSA-java/tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/BinarySoulX/DSA-java/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/BinarySoulX/DSA-java/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BinarySoulX/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/BinarySoulX/DSA-java/tree/master/0274-h-index) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BinarySoulX/DSA-java/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/BinarySoulX/DSA-java/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/BinarySoulX/DSA-java/tree/master/0139-word-break) |
 | [0377-combination-sum-iv](https://github.com/BinarySoulX/DSA-java/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |

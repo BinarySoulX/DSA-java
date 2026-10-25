@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BinarySoulX/DSA-java/tree/master/0011-container-with-most-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BinarySoulX/DSA-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BinarySoulX/DSA-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/BinarySoulX/DSA-java/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0658-find-k-closest-elements) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BinarySoulX/DSA-java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BinarySoulX/DSA-java/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/BinarySoulX/DSA-java/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BinarySoulX/DSA-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/BinarySoulX/DSA-java/tree/master/0208-implement-trie-prefix-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BinarySoulX/DSA-java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BinarySoulX/DSA-java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BinarySoulX/DSA-java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BinarySoulX/DSA-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/BinarySoulX/DSA-java/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/BinarySoulX/DSA-java/tree/master/0622-design-circular-queue) |
 ## Queue

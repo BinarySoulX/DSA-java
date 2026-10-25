@@ -1,36 +1,51 @@
 class Solution {
-    private static double compute(int ans[]){
-        int n=ans.length;
-        boolean check=(n%2==0)?true:false;
-        if(!check){
-            return (double)ans[n/2];
-        }else{
-            int mid1=ans[n/2];
-            int mid2=ans[(n/2)-1];
-            return (double) (mid1+mid2)/2;
-        }
-    }
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int m=nums1.length,n=nums2.length;
-        int ans[]=new int[m+n];
-        int p1=0,p2=0;
-        int idx=0;
-        while(p1<m && p2<n){
-            if(nums1[p1]<=nums2[p2]){
-                ans[idx++]=nums1[p1];
-                ++p1;
-            }else{
-                ans[idx++]=nums2[p2];
-                ++p2;
+
+        // Always binary search on the smaller array
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
+        int m = nums1.length;
+        int n = nums2.length;
+
+        int lo = 0;
+        int hi = m;
+
+        while (lo <= hi) {
+
+            int i = (lo + hi) / 2; // Partition nums1
+            int j = (m + n + 1) / 2 - i; // Partition nums2
+
+            int left1  = (i > 0) ? nums1[i - 1] : Integer.MIN_VALUE;
+            int right1 = (i < m) ? nums1[i] : Integer.MAX_VALUE;
+
+            int left2  = (j > 0) ? nums2[j - 1] : Integer.MIN_VALUE;
+            int right2 = (j < n) ? nums2[j] : Integer.MAX_VALUE;
+
+            // Correct partition
+            if (left1 <= right2 && left2 <= right1) {
+                // Odd total length
+                if ((m + n) % 2 == 1){
+                    return Math.max(left1, left2);
+                }
+
+                // Even total length
+                return (Math.max(left1, left2)
+                        + (long) Math.min(right1, right2)) / 2.0;
+            }
+
+            // nums1 partition is too far right
+            if (left1 > right2) {
+                hi = i - 1;
+            }
+
+            // nums1 partition is too far left
+            else {
+                lo = i + 1;
             }
         }
-        while(p1!=m){ //if left in nums1
-            ans[idx++]=nums1[p1];++p1;
-        }
-        while(p2!=n){  //if left in nums2
-            ans[idx++]=nums2[p2];++p2;
-        }
-        if(ans.length==1){return (double)ans[0];}
-        return compute(ans);
+
+        return 0.0; // Unreachable for valid input
     }
 }
